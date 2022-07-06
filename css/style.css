@@ -1,0 +1,270 @@
+/* google-font export */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400;500;600;700;800&family=Baloo+Bhaijaan+2:wght@400;500;600;700;800&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Mochiy+Pop+P+One&family=Oswald:wght@200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Beastly&display=swap');
+/* google-font export */
+
+/* default font family name */
+* {
+    font-family: 'Baloo Bhai 2', cursive;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Rubik Beastly', cursive; */
+}
+
+/* default font family name */
+
+
+/* navbar css start here */
+.bg-custom {
+    background: rgb(0 0 0 / 70%);
+}
+
+.inpandicon {
+    border: 1px solid #C6C0BD;
+    background: #C6C0BD;
+    padding: 6px 10px;
+    border-radius: 50px;
+    display: flex;
+}
+
+.nav-inp {
+    width: 130px;
+    border: none;
+    outline: none;
+    background: #C6C0BD;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 5px;
+}
+
+.nav-icon {
+    padding-top: 4px;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.custom-p-navbar {
+    margin-right: 20px;
+    margin-top: 5px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 14px;
+
+}
+
+/* navbar css end here */
+
+
+/* home-page css start here */
+.background {
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+.home-page-icon {
+    font-size: 300px;
+    color: red;
+
+}
+
+.home-page-padding {
+    padding-top: 200px;
+
+}
+
+/* home-page css end here */
+
+/* menu-page start here */
+
+.menu-icon {
+    border: 1px solid red;
+    border-radius: 100%;
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+
+}
+
+.custom-icon-menu {
+    font-size: 35px;
+}
+
+.custom-p-menu {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.class {
+    font-family: 'Rubik Beastly', cursive;
+}
+
+.p-class {
+    font-family: 'Oswald', sans-serif;
+}
+
+.radius {
+    border-radius: 5px;
+}
+
+/* menu-page end here */
+
+
+/* our team member start here */
+.custom-border-team {
+    border-radius: 50px;
+
+    margin: auto;
+}
+
+.under-the-div {
+    padding: 40px 40px 0 40px;
+}
+
+.main-div {
+    border-top-left-radius: 90px;
+    border-top-right-radius: 90px;
+    width: 300px;
+    margin: auto;
+}
+
+.btn-bg1 {
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+.btn-bg2 {
+    background-image: linear-gradient(to bottom right, blue, yellow);
+}
+
+.btn-bg3 {
+    background-image: linear-gradient(to bottom right, green, yellow);
+}
+
+.btn-bg4 {
+    background-image: linear-gradient(to bottom right, rgb(0, 195, 255), yellow);
+}
+
+.btn-bg5 {
+    background-image: linear-gradient(to bottom right, rgb(204, 0, 255), yellow);
+}
+
+.btn-bg6 {
+    background-image: linear-gradient(to bottom right, rgb(119, 109, 255), yellow);
+}
+
+.name1 {
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, red, yellow);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.name2 {
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, blue, yellow);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.name3 {
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, green, yellow);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.name4 {
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, rgb(0, 195, 255), yellow);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.name5 {
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, rgb(204, 0, 255), yellow);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.name6 {
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, rgb(119, 109, 255), yellow);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.our-team-heading {
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+/* our team member end here */
+
+/* contact page css start here */
+.contact-heading {
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.contact-inp-design {
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    outline: none;
+}
+
+.button-contact {
+    font-family: 'Oswald', sans-serif;
+    padding: 15px 50px 15px 50px;
+    font-size: 25px;
+}
+
+/* contact page css end here */
+
+
+/* footer section start here */
+
+.footer-icon-sizing {
+    padding: 15px;
+    margin: 10px;
+    font-size: 30px;
+    background: rgb(37, 97, 60);
+    color: white;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.footer-icon-sizing:hover {
+
+    background: #FFC107;
+    color: black;
+
+}
+
+.footer-text {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+/* footer section end here */

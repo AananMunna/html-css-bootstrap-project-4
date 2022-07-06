@@ -1,0 +1,64 @@
+@media (max-width: 992px) {
+
+    /* navbar */
+    .nav-inp {
+        width: 100%;
+        border: none;
+        outline: none;
+        background: #C6C0BD;
+    }
+
+    .custom-nav-m-auto {
+        text-align: center;
+
+    }
+
+    .custom-p-navbar {
+        margin-right: 30px;
+        margin-top: 0;
+
+    }
+
+    .inpandicon {
+        margin-top: 10px;
+    }
+
+    /* navbar */
+
+    /* home-page */
+    .text-content {
+        margin-bottom: 25px;
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    /* home-page */
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    /* home-page */
+    .home-page-icon {
+        font-size: 200px;
+    }
+
+    /* home-page */
+
+    /* contact page */
+
+    .contact-inp-design {
+        font-size: 15px;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+
+    .button-contact {
+        padding: 10px 30px 10px 30px;
+        font-size: 20px;
+    }
+
+    /* contact page */
+
+    /* footer section start here */
+    /* footer section end here */
+}
